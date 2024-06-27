@@ -62,4 +62,5 @@ The application is a task management tool whose main aim is creating, scheduling
 2. cd to the folder
 3. run _npm install_ to install dependencies
 4. Run _cp .env.example .env_ to copy the environment for where the BACKEND url is placed
-5. Clone the backend from  https://github.com/Crawford30/laravel.api.taskmanagement
+5. Then run _npm run dev_ to start the Frontend app
+6. Clone the backend from  https://github.com/Crawford30/laravel.api.taskmanagement
