@@ -50,4 +50,16 @@ The application is a task management tool whose main aim is creating, scheduling
 
 ## UPDATE == Use a JSON based backend or localStorage or sessionStorage or indexDB ==
 
+
+
 ## DEADLINE: 27-06-2024 EOD
+
+
+
+
+##INSTRUCTIONS
+1. Clone the project
+2. cd to the folder
+3. run _npm install_ to install dependencies
+4. Run _cp .env.example .env_ to copy the environment for where the BACKEND url is placed
+5. Clone the backend from  https://github.com/Crawford30/laravel.api.taskmanagement
